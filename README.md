@@ -1,5 +1,8 @@
 # AmbieCare Firebase Studio v1
 
+> [!NOTE]
+> 본 프로젝트는 [fs_prompt_opus.md](../../Ambi-Care-app/fs_prompt_opus.md)의 Firebase Studio 프롬프트를 바탕으로 작성되었습니다.
+
 AmbieCare 프로젝트의 프론트엔드 및 AI 연동 기능을 개발하기 위한 Next.js 기반의 스타터 프로젝트입니다. Firebase와 Google Genkit이 통합되어 있습니다.
 
 ## 🛠 기술 스택 (Tech Stack)
